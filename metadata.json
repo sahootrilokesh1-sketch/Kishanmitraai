@@ -1,0 +1,11 @@
+{
+  "name": "KisanMitra AI",
+  "description": "Intelligent farming companion for Indian farmers with AI crop doctor, live mandi prices, farm supplies checkout and order form connected to Supabase database, and multilingual assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
